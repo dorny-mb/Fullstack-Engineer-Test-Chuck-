@@ -11,8 +11,7 @@
 - Your GraphQL API should have a Query type that resolves all Categories
   (https://api.chucknorris.io/jokes/categories)
 - Your GraphQL API should have a Query type that resolves a random joke
-  given a Category as an argument (https://api.chucknorris.io/jokes/random?
-  category={category})
+  given a Category as an argument (https://api.chucknorris.io/jokes/random?category={category})
 
 #### Client:
 
