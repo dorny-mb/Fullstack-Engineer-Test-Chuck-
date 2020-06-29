@@ -7,7 +7,7 @@
 #### Server:
 
 - You should develop an Apollo GraphQL API
-- Your GraphQL API should wrap the ChuckNorris.io API
+- Your GraphQL API should wrap the [ChuckNorris](ChuckNorris.io) API
 - Your GraphQL API should have a Query type that resolves all Categories
   (https://api.chucknorris.io/jokes/categories)
 - Your GraphQL API should have a Query type that resolves a random joke
@@ -16,7 +16,7 @@
 
 #### Client:
 
-- You should develop a Single Page App SPA
+- You should develop a Single Page App (SPA)
 - Your SPA should consume the above GraphQL API
 - Your SPA should have a home page with a list of categories
 - When a category is clicked, the category detail (a random joke) should be
